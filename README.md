@@ -11,3 +11,11 @@ Terraform is an open-source infrastructure as code software tool created by Hash
     $ terraform plan
     $ terraform apply
     $ terraform destroy
+
+## Source
+
+    https://learn.hashicorp.com/terraform
+
+## Build Infrastructure
+
+    https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started
